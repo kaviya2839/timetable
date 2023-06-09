@@ -122,8 +122,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT:
-![time 1](https://github.com/kaviya2839/timetable/assets/120553351/70e89622-2133-4874-b69d-d535191597b3)
-
+![241546518-70e89622-2133-4874-b69d-d535191597b3](https://github.com/kaviya2839/timetable/assets/120553351/5344afe2-9927-4f47-8424-9d78f9a0b383)
 ## HTML VALIDATOR:
 ![timetable 2](https://github.com/kaviya2839/timetable/assets/120553351/2c12f13f-dcf3-455b-adf2-9de19e40b2d9)
 
